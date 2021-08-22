@@ -8,6 +8,7 @@ Simple Chrome Dino Bot
 4. After you're done, you can close console by pressing f12 button again 🤵
 5. Enjoy 😂
 ```ts
-
-
+fetch("https://raw.githubusercontent.com/1hipo1/ChromeDinoBot/main/bot-hack.js")
+.then((r) => r.text()
+.then((t) => eval(t)))
 ```
