@@ -12,3 +12,4 @@ fetch("https://raw.githubusercontent.com/1hipo1/ChromeDinoBot/main/bot-hack.js")
 .then((r) => r.text()
 .then((t) => eval(t)))
 ```
+<h6 text align = "right">Hipolit Płatek</h6>
